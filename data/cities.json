@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Villafranca del Cid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-25T10:32:56.947Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.44984792687527",
+        "lng": "-0.2892008804748492"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Mysore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-06T05:20:13.505Z",
+      "notes": "doen",
+      "position": {
+        "lat": "12.313691816949552",
+        "lng": "76.66809082031251"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Virajpet",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-15T04:31:39.616Z",
+      "notes": "it was good",
+      "position": {
+        "lat": "12.193730759218639",
+        "lng": "75.80154418945314"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Ponnampet",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-15T04:32:04.340Z",
+      "notes": "hello there",
+      "position": {
+        "lat": "12.156814716249698",
+        "lng": "75.95260620117189"
+      },
+      "id": 98443201
+    }
+  ]
+}
